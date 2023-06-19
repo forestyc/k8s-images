@@ -1,1 +1,1 @@
-FROM calico/kube-controllers:release-v3.26:DIGEST:sha256:c880583c0a7afdc26586fe92cebea92a2bfcf87cd9b2f3491ac9a6447516bde4
+FROM docker.io/calico/kube-controllers:v3.26.0
